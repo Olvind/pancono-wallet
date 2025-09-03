@@ -1,3 +1,4 @@
+from replit import db
 import os
 from flask import Flask
 from telegram import Update, WebAppInfo, InlineKeyboardButton, InlineKeyboardMarkup
