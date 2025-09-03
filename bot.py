@@ -8,7 +8,7 @@ from replit import db
 # CONFIG
 # ========================
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_ID = 123456789   # Replace with your Telegram ID
+ADMIN_ID = 7194082974   # Replace with your Telegram ID
 
 # ========================
 # INIT WALLETS
