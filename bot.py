@@ -9,7 +9,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
         [InlineKeyboardButton(
             text="Open Pancono Wallet 💳",
-            web_app=WebAppInfo(url="https://your-replit-url.repl.co"))
+            web_app=WebAppInfo(url="https://pancono-wallet.onrender.com"))
         ]
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
